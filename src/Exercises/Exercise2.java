@@ -21,7 +21,5 @@ public class Exercise2 {
         percentage = 5F;
         salaryPercentage = salary * percentage / 100;
         System.out.println("The salary percentage 5% is: " + salaryPercentage);
-
     }
-
 }
