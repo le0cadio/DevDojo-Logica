@@ -1,4 +1,6 @@
-public class CalculatorbetweenAges {
+package Exercises;
+
+public class Exercise0 {
     public static void main(String[] args) {
         int firstAge = 10;
         int secondAge = 20;
