@@ -1,6 +1,4 @@
-package Exercises;
-
-public class Conditional {
+public class Conditionals {
     public static void main(String[] args) {
         if (true) {
             System.out.println("This is true");
