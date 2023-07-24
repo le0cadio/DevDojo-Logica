@@ -1,4 +1,4 @@
-//get age as input, if age greaten than 18 print "adult" if not print "non-adult"''''''''''''''''''''''''''''''''''''''''
+//get age as input, if age greaten than 18 print "adult" if not print "non-adult"
 
 package Exercises;
 
