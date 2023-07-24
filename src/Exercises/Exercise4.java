@@ -1,4 +1,5 @@
 // If salary be higher than 4500, print 30% of value, if not print 15%
+// challenge: use only one if and else statement, and say in print if is 30% or 15%
 
 package Exercises;
 
