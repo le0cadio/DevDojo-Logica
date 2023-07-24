@@ -1,5 +1,4 @@
-//based on a number, print if is odd or even
-
+//based on a number, print if is Odd or Even.
 package Exercises;
 
 public class Exercise5 {
