@@ -2,7 +2,6 @@
 // challenge: use only one if and else statement, and say in print if is 30% or 15%
 
 package Exercises;
-
 public class Exercise4 {
     public static void main(String[] args) {
         float salary = 3000F;

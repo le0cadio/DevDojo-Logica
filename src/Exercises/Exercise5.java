@@ -1,6 +1,5 @@
 //based on a number, print if is Odd or Even.
 package Exercises;
-
 public class Exercise5 {
     public static void main(String[] args) {
         int number = 10;
